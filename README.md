@@ -1,1 +1,2 @@
-# Bank_Management_System_Project
+# Bank_Management_Project
+This is Bank Management System project with using Python.
